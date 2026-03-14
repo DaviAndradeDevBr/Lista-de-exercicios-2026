@@ -21,7 +21,7 @@ while (true)
 
     decimal consumoLitrosPorKm = distanciaPercorrida / combustivelConsumido;
 
-    Console.WriteLine($"O consumo de combustível durante o percurso foi de ~: {consumoLitrosPorKm} km/1");
+    Console.WriteLine($"O consumo de combustível durante o percurso foi de ~: {consumoLitrosPorKm} km/l");
 
     Console.WriteLine("\nPressione ENTER para continuar...");
     Console.ReadLine();
